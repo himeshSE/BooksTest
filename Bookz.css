@@ -1,0 +1,47 @@
+header{
+    height: 15%;
+    width: 100%;
+    padding: 5px;
+    background-color: gold;
+}
+h1{
+ 
+}
+#section2{
+ width: 100%;
+ height: 1000px;
+ background-color:darkgray;
+ padding: 5px;
+ 
+}
+
+#sec2sub1{
+ 
+ 
+ font-size: 15px;
+ color: aqua;
+ background-color: bisque;
+ width: 25%;
+ height: 100%;
+ float: left;
+ 
+ 
+}
+
+#sec2sub2{
+font-size: 15px;
+color: blueviolet;
+background-color: yellow;
+width: 75%;
+height: 100%;
+float: right;
+
+
+}
+table,th,td{
+    border: 2px solid brown;
+}
+table{
+    height: 20%;
+    width: 80%;
+}
